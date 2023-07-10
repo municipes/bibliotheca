@@ -1,11 +1,8 @@
-uuid: 777dfc13-b809-4154-82cf-85ad57e08ebe
 langcode: it
 status: true
 dependencies:
   module:
     - focal_point
-_core:
-  default_config_hash: HJu77QU75_fVoVQ2lsJATjTUHy33MiklnfousbKC9jY
 name: focal_point_wxga_16_10_1280x800_
 label: 'Punto focale WXGA 16:10 (1280x800) Wide'
 effects:

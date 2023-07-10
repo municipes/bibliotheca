@@ -1,11 +1,8 @@
-uuid: cb772f14-5fc7-41fe-b258-5428d39c3e11
 langcode: it
 status: true
 dependencies:
   module:
     - focal_point
-_core:
-  default_config_hash: Z_1lPahTDo880GZqPl_S1EHL70LH6cquRdH7gl5Il_U
 name: focal_point_wqhd_9_16_1440x2560_narrow
 label: 'Punto focale WQHD 9:16 (1440x2560) Stretto'
 effects:

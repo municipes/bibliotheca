@@ -1,11 +1,8 @@
-uuid: c6645d0e-8d87-43f9-84c0-7c82136bd028
 langcode: it
 status: true
 dependencies:
   module:
     - focal_point
-_core:
-  default_config_hash: SE2nHLDXPBp0Y3P9Cs6uABHRiVL_ki91B4nOdNh236k
 name: focal_point_pal_27_40_486x720_narrow
 label: 'Punto focale PAL 27:40 (486x720) Stretto'
 effects:

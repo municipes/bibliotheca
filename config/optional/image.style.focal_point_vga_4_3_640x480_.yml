@@ -1,11 +1,8 @@
-uuid: 8fd10096-1f19-420d-9f47-819a68006c13
 langcode: it
 status: true
 dependencies:
   module:
     - focal_point
-_core:
-  default_config_hash: rD7TdBtUiUqf3ZTyJN8ZKqSmav13aCaWWmQOuzEIOi8
 name: focal_point_vga_4_3_640x480_
 label: 'Punto focale VGA 4:3 (640x480) Wide'
 effects:

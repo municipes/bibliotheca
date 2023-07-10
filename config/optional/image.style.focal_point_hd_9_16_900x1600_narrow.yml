@@ -1,11 +1,8 @@
-uuid: 6a25caa2-389a-4160-9f38-b98f29e6c58d
 langcode: it
 status: true
 dependencies:
   module:
     - focal_point
-_core:
-  default_config_hash: xLKnxuwmse6Jk5J_-MejQ-8MIht4DsUJ7tDWpBliVWA
 name: focal_point_hd_9_16_900x1600_narrow
 label: 'Punto focale HD+ 9:16 (900x1600) Stretto'
 effects:

@@ -1,11 +1,8 @@
-uuid: 80269218-85e4-49b3-9599-6ba054a4a485
 langcode: it
 status: true
 dependencies:
   module:
     - focal_point
-_core:
-  default_config_hash: gRx5mZAl-1SHwRBbkWCLqUetD4KZEplIJYG4-OZJHn4
 name: focal_point_qhd_16_9_2560x1440_
 label: 'Punto focale QHD 16:9 (2560x1440) Wide'
 effects:

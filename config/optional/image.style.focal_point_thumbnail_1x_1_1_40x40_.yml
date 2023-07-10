@@ -1,11 +1,8 @@
-uuid: e270e2e9-4b7b-4cc9-a4bc-ef3d62b29d2c
 langcode: it
 status: true
 dependencies:
   module:
     - focal_point
-_core:
-  default_config_hash: rIgopY6h8V0wcpC4t_tA1oGaJ1JON4OLoFlYdObQPaM
 name: focal_point_thumbnail_1x_1_1_40x40_
 label: 'Focal point Thumbnail 1X 1:1 (40x40)'
 effects:

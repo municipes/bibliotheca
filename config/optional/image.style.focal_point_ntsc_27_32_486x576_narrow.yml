@@ -1,11 +1,8 @@
-uuid: 187fb080-0be6-4829-be08-c766c4542d8f
 langcode: it
 status: true
 dependencies:
   module:
     - focal_point
-_core:
-  default_config_hash: _dcM1EWbhruaQMOq3OtCDCZjfZsD8-NOkozNB7p8-e0
 name: focal_point_ntsc_27_32_486x576_narrow
 label: 'Punto focale NTSC 27:32 (486x576) Stretto'
 effects:

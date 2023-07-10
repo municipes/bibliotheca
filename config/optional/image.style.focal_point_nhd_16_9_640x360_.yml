@@ -1,11 +1,8 @@
-uuid: 2ae20a39-9b1b-403b-9594-a8feeb8426cb
 langcode: it
 status: true
 dependencies:
   module:
     - focal_point
-_core:
-  default_config_hash: PyI9e8vXOhDs5N_XUDZ4jfyU3eyB-4gWVxBCG2gPziM
 name: focal_point_nhd_16_9_640x360_
 label: 'Punto focale nHD 16:9 (640x360) Wide'
 effects:

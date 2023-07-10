@@ -1,11 +1,8 @@
-uuid: 764725dc-64f7-478d-85cd-927ab573bf1d
 langcode: it
 status: true
 dependencies:
   module:
     - focal_point
-_core:
-  default_config_hash: 114N523kUNUgNlBuAGYfrw9Vw9CD-7NFOcmIlqxRys8
 name: focal_point_xga_3_4_768x1024_narrow
 label: 'Punto focale XGA 3:4 (768x1024) Stretto'
 effects:

@@ -1,11 +1,8 @@
-uuid: 7cf12127-9e3a-41e6-b0aa-d82d1da23403
 langcode: it
 status: true
 dependencies:
   module:
     - focal_point
-_core:
-  default_config_hash: eP0WU11bKCaMEHHamzoaoV0LhBZPyvwqUOYMWHzNo4k
 name: focal_point_wsxga_10_16_1050x1680_narrow
 label: 'Punto focale WSXGA+ 10:16 (1050x1680) Stretto'
 effects:

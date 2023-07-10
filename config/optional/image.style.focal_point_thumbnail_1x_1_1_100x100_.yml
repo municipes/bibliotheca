@@ -1,11 +1,8 @@
-uuid: a6cb761d-35d4-47e1-b48e-7f8facdb4d4a
 langcode: it
 status: true
 dependencies:
   module:
     - focal_point
-_core:
-  default_config_hash: tko4bSm-dJvFWGbp1FKqXX7WnZ0WRMxYGFGQHbkTJSs
 name: focal_point_thumbnail_1x_1_1_100x100_
 label: 'Miniatura del punto focale 1X 1:1 (100x100)'
 effects:

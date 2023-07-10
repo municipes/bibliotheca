@@ -1,11 +1,8 @@
-uuid: d0732cd0-1eeb-4a57-86f4-9a9aa7b80172
 langcode: it
 status: true
 dependencies:
   module:
     - focal_point
-_core:
-  default_config_hash: Vkzv-GbHLjzIWgReSpfrKM_mo5L242PGID_j0UmSRWw
 name: focal_point_svga_4_3_800x600_
 label: 'Punto focale SVGA 4:3 (800x600) Wide'
 effects:

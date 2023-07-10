@@ -1,11 +1,8 @@
-uuid: decf47bc-4039-4a4a-b4b0-4f04797fa727
 langcode: it
 status: true
 dependencies:
   module:
     - focal_point
-_core:
-  default_config_hash: VFQk6gvPa-VWoA0LnAPDaHB9-PP7B7qZHaMjfkmFmlE
 name: focal_point_hda_16_9_1360x768_
 label: 'Punto focale HDA ~16:9 (1360x768) Wide'
 effects:
