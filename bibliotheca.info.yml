@@ -7,5 +7,8 @@ core_version_requirement: ^9.5 || ^10
 dependencies:
   - drupal:file
   - drupal:image
+  - drupal:responsive_image
   - drupal:media
   - drupal:media_library
+  - drupal:focal_point
+  - drupal:imce
