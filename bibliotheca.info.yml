@@ -12,3 +12,4 @@ dependencies:
   - drupal:media_library
   - focal_point:focal_point
   - imce:imce
+  - bootstrap_italia:bootstrap_italia_image_style
